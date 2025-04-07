@@ -1,0 +1,4 @@
+pygame
+numpy
+
+#pip install -r requirements.txt
