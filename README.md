@@ -23,7 +23,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-📂 Project Structure
+## 📂 Project Structure
+```bash
 gravity-simulation/
 ├── assets/
 │   └── images/              # Object visuals (e.g. planet.png, particle.png)
@@ -35,6 +36,7 @@ gravity-simulation/
 ├── particle.py              # Physics classes and movement logic
 ├── requirements.txt
 └── README.md
+```
 
 ## 🔧 Requirements
 ```bash
